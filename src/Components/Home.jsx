@@ -10,7 +10,7 @@ export default function Home() {
           <img src="https://images.samsung.com/is/image/samsung/p6pim/in/sm-a166pzdhins/gallery/in-galaxy-a16-5g-sm-a166-sm-a166pzdhins-thumb-544007856" alt="" />
         </div>
         <div className='text-wrapper'>
-          <span>Samsung A16</span>
+          <span>Samsung A16</span><br/>
           <span>Price: 100000 Rs.</span>
         </div>
         <div>
@@ -25,7 +25,7 @@ export default function Home() {
           <img src="https://images.samsung.com/is/image/samsung/p6pim/in/sm-a166pzdhins/gallery/in-galaxy-a16-5g-sm-a166-sm-a166pzdhins-thumb-544007856" alt="" />
         </div>
         <div className='text-wrapper'>
-          <span>Samsung A16</span>
+          <span>Samsung A16</span><br/>
           <span>Price: 100000 Rs.</span>
         </div>
         <div>
@@ -39,7 +39,7 @@ export default function Home() {
           <img src="https://images.samsung.com/is/image/samsung/p6pim/in/sm-a166pzdhins/gallery/in-galaxy-a16-5g-sm-a166-sm-a166pzdhins-thumb-544007856" alt="" />
         </div>
         <div className='text-wrapper'>
-          <span>Samsung A16</span>
+          <span>Samsung A16</span><br/>
           <span>Price: 100000 Rs.</span>
         </div>
         <div>
@@ -53,7 +53,7 @@ export default function Home() {
           <img src="https://images.samsung.com/is/image/samsung/p6pim/in/sm-a166pzdhins/gallery/in-galaxy-a16-5g-sm-a166-sm-a166pzdhins-thumb-544007856" alt="" />
         </div>
         <div className='text-wrapper'>
-          <span>Samsung A16</span>
+          <span>Samsung A16</span><br/>
           <span>Price: 100000 Rs.</span>
         </div>
         <div>
@@ -67,7 +67,7 @@ export default function Home() {
           <img src="https://images.samsung.com/is/image/samsung/p6pim/in/sm-a166pzdhins/gallery/in-galaxy-a16-5g-sm-a166-sm-a166pzdhins-thumb-544007856" alt="" />
         </div>
         <div className='text-wrapper'>
-          <span>Samsung A16</span>
+          <span>Samsung A16</span><br/>
           <span>Price: 100000 Rs.</span>
         </div>
         <div>
